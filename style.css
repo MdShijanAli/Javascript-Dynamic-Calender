@@ -38,7 +38,7 @@ section {
 }
 
 #dycalender table tr:nth-child(1) td {
-    background: #2196f3;
+    background: black;
     color: #fff;
     border-radius: 10px;
     font-weight: 600;
